@@ -50,6 +50,7 @@ Estuary is an ETL data pipeline platform that combines batch and real-time data.
 | Repo | Description |
 | --- | --- |
 | [Flow](https://github.com/estuary/flow) | The codebase for Estuary's signature ETL pipeline product, along with `flowctl`, Estuary's CLI for managing your data flows |
+| [Agent Skills](https://github.com/estuary/agent-skills) | Agent skills to help you set up and maintain your pipelines with your AI tool of choice |
 | [Connectors](https://github.com/estuary/connectors) | Capture (source) and materialization (destination) connectors to use with Estuary |
 | [Examples](https://github.com/estuary/examples) | Examples on working with Estuary, including sample apps that generate data to test real-time data flows and derivation configuration |
 
