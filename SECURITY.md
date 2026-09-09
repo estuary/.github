@@ -37,7 +37,7 @@ Estuary does not currently operate a bug bounty program, and we do not offer mon
 
 We are interested in reports affecting:
 
-- The Estuary Flow platform and its components
+- The Estuary platform and its components
 - Estuary-maintained open source repositories
 - Estuary's public-facing infrastructure
 
